@@ -43,7 +43,6 @@ var handleButtonClick = function (event) {
     event.preventDefault();
     var eventEl = $(event.target)
 
-
     var textInput = eventEl.siblings().eq(1).val();
     var divId = eventEl.closest('div').attr("id");
 
