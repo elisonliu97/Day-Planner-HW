@@ -8,6 +8,7 @@ textarea {
   background: transparent;
   border: none;
   resize: none;
+  width: 90%;
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
